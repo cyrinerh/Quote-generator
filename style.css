@@ -1,0 +1,38 @@
+.body {
+	background-color: #e74c3c;
+
+}
+.inside {
+	background-color: white;
+	width: 600px;
+	min-height: 295px;
+	margin: 100px auto;
+	border-radius: 10px;
+}
+.message {
+	margin-left: 170px;
+	padding-top: 30px;
+	color : #e74c3c;
+}
+.cite {
+	margin-left: 300px;
+}
+#tweetMessage {
+	background: #e74c3c;
+	color: white;
+	min-height: 40px;
+	border: none;
+	border-radius: 10px;
+	margin-left: 40px;
+}
+#getMessage {
+	background: #e74c3c;
+	color: white;
+	min-height: 40px;
+	border: none;
+	border-radius: 10px;
+	margin-left: 361px;
+}
+.buttons {
+	margin-top: 80px;
+}
